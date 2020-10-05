@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Site
+https://liyang-zhou.github.io/e-commerce/
+
+click on the little crown to start shopping
+
+
+![Crown](https://tva1.sinaimg.cn/large/007S8ZIlly1gjeg1z4tzwj304i03at8i.jpg)
 
 ## Available Scripts
 
